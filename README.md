@@ -1,5 +1,9 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# deskripsi
+bot sederhana yang dibangun menggunakan bahasa dart
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+# referensi yang digunakan
+https://www.youtube.com/watch?v=zJq1qgYPQmU
+
+# look
+
+![capture](capture.png)
